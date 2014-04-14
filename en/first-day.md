@@ -14,7 +14,7 @@ So, I created a couple rules for myself.
 * Must write a post every day.
 * Must speak an article every day.
 
-I think lean English and play games are the same.
+I think learn English and play games are the same.
 Play it and improve the level of games.
 
 Ok, just do it! :)
