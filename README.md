@@ -26,3 +26,7 @@
 * All code must be written before midnight.
 
 * The code must be Open Source and up on GitHub.
+
+### References
+
+* [Write Code Every Day](http://ejohn.org/blog/write-code-every-day/) by [John Resig](github.com/jeresig/).
